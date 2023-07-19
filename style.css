@@ -1,0 +1,45 @@
+.logo{
+    font-style: italic;
+   font-family: monospace;
+   font-size: x-large;
+   margin-top: 20px;
+   margin-left: 20px;
+}
+.menu{
+    margin-left: 45%;
+    color: black;
+
+}
+a{
+    margin-right: 20px;
+}
+.background{
+    background: url(../style/WhatsApp\ Image\ 2023-07-09\ at\ 12.02.46\ AM.jpeg);
+    background-size: cover;
+}
+.intro{
+    margin-left: 16%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div p {
+    margin-left: 14%;
+    font-size: larger;
+}
+.con{
+    margin-left: 14%;
+}
+div button{
+  color: crimson;
+  margin-left: 10%;
+
+}
+.contact{
+    margin-left: 45%;
+    margin-top: 20%;
+}
+.con{
+    margin-left: 40%;
+}
+.skill{
+    margin-left:30%;
+}
